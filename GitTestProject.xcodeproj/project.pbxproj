@@ -14,6 +14,7 @@
 		84B7F3F8240ABED10081BEB1 /* GitTestProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 84B7F3F6240ABED10081BEB1 /* GitTestProject.xcdatamodeld */; };
 		84B7F3FA240ABED80081BEB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84B7F3F9240ABED80081BEB1 /* Assets.xcassets */; };
 		84B7F3FD240ABED80081BEB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84B7F3FB240ABED80081BEB1 /* LaunchScreen.storyboard */; };
+		84B7F405240AC4A00081BEB1 /* NapForIternerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B7F404240AC4A00081BEB1 /* NapForIternerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		84B7F3F9240ABED80081BEB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84B7F3FC240ABED80081BEB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84B7F3FE240ABED80081BEB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84B7F404240AC4A00081BEB1 /* NapForIternerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NapForIternerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				84B7F3ED240ABED10081BEB1 /* AppDelegate.swift */,
 				84B7F3EF240ABED10081BEB1 /* SceneDelegate.swift */,
 				84B7F3F1240ABED10081BEB1 /* ViewController.swift */,
+				84B7F404240AC4A00081BEB1 /* NapForIternerary.swift */,
 				84B7F3F3240ABED10081BEB1 /* Main.storyboard */,
 				84B7F3F9240ABED80081BEB1 /* Assets.xcassets */,
 				84B7F3FB240ABED80081BEB1 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				84B7F3EE240ABED10081BEB1 /* AppDelegate.swift in Sources */,
 				84B7F3F8240ABED10081BEB1 /* GitTestProject.xcdatamodeld in Sources */,
 				84B7F3F0240ABED10081BEB1 /* SceneDelegate.swift in Sources */,
+				84B7F405240AC4A00081BEB1 /* NapForIternerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
