@@ -16,6 +16,8 @@ class ViewController: UIViewController
         // Do any additional setup after loading the view.
         
         print("This is a git tutorial")
+        
+        print("Finished the tutorial")
     }
 
 
